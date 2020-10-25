@@ -1,3 +1,6 @@
 **/*.swp
-.env/*
-**/__pycache__/*
+**/.env
+**/__pycache__
+**/.venv
+**/data
+**/*.mp4
