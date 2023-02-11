@@ -5,7 +5,7 @@ chardet==3.0.4
 cycler==0.10.0
 decorator==4.4.2
 dgl==0.5.2
-future==0.18.2
+future==0.18.3
 idna==2.10
 ipython==8.10.0
 ipython-genutils==0.2.0
