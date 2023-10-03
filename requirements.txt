@@ -38,6 +38,6 @@ threadpoolctl==2.1.0
 toml==0.10.1
 torch==1.13.1
 traitlets==5.0.4
-urllib3==1.26.5
+urllib3==1.26.17
 wcwidth==0.2.5
 wrapt==1.12.1
